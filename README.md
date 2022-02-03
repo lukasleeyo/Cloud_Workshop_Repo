@@ -2,7 +2,7 @@
 
 [![Watch the video](images/Video.png)](https://www.youtube.com/watch?v=Pi8BmaV3f_M)
 
-DSC Cloud Workshop was held on 22 Dec 2021 by Lee Jae Ho and Lee Jia Wei.
+DSC Cloud Workshop was held on 22 Dec 2021 by [Lee Jae Ho](https://github.com/jhlee1997) and [Lee Jia Wei](https://github.com/lukasleeyo/).
 
 [Click here](https://github.com/GDSC-NUS/Cloud_Workshop_Repo) to view our repository.
 - To try out our Toktik App, [here](https://tinyurl.com/TheToktikApp)!
