@@ -5,7 +5,7 @@
 DSC Cloud Workshop was held on 22 Dec 2021 by [Lee Jae Ho](https://github.com/jhlee1997) and [Lee Jia Wei](https://github.com/lukasleeyo/).
 
 [Click here](https://github.com/GDSC-NUS/Cloud_Workshop_Repo) to view our repository.
-- To try out our Toktik App, [here](https://tinyurl.com/TheToktikApp)! *Currently app is disabled due to Google Cloud free trial is over*
+- To try out our Toktik App, [here](https://tinyurl.com/TheToktikApp)! **Note: Currently app is disabled due to Google Cloud free trial is over**
   * But first, your email must be registered. Please contact [Lee Jae Ho](mailto:leejaeho1997@gmail.com) or [Lee Jia Wei](mailto:jiawei3e1@gmail.com)
 - To read our slides, [here](https://tinyurl.com/DSCWorkshopCloudSlides)!
 - To view participant's resources, [here](https://github.com/GDSC-NUS/Cloud_Workshop_Repo/tree/main/Participant%20Resources)!
